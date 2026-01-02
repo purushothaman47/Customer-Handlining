@@ -1,0 +1,5 @@
+com\example\kyc\DBUtil.class
+com\example\kyc\AddCustomer.class
+com\example\kyc\UpdateStatus.class
+com\example\kyc\UpdateCustomer.class
+com\example\kyc\ViewCustomer.class
